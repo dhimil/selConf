@@ -1,0 +1,8 @@
+videos/
+ios/conf.mobileprovision
+ios/SafariLauncher.*
+android/selendroid-standalone.jar
+log/
+samples/*.png
+nohup.out
+.DS_Store
